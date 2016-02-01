@@ -18,3 +18,6 @@ Answers to Study Guide
 
 9. TO check the status of the files you are working on, just type on svn status in the command prompt. Just make sure it is a working copy otherwise you will get an error.
 
+10. There's no set time for how long branches are supposed to exist in svn. Just as long as the user sees fit.
+
+
