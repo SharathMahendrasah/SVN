@@ -28,4 +28,5 @@ Answers to Study Guide
 
 14. The design criteria for SVN was for it to be an open source system with a design similar to CVS and attempting to avoid most of CVS's noticeable flaws.
 
+15. It keeps a record of every change ever committed and allows you to explore this history by examining previous versions of files and directories as well as the metadata that accompanies them. With a single Subversion command, you can check out the repository (or restore an existing working copy) exactly as it was at any date or revision number in the past.
 
