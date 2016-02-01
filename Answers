@@ -24,4 +24,6 @@ Answers to Study Guide
 
 12. Svn was created to be a successor to CVS, by creating an open source system witha design similar to CVS and attempting to avoid most of CVS's noticeable flaws.
 
+13. A typical workflow for svn is set up a repository, once that is done create a working copy on a local drive, add files and check status when necessary and commit changes when necessary. 
+
 
