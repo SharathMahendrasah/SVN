@@ -30,3 +30,6 @@ Answers to Study Guide
 
 15. It keeps a record of every change ever committed and allows you to explore this history by examining previous versions of files and directories as well as the metadata that accompanies them. With a single Subversion command, you can check out the repository (or restore an existing working copy) exactly as it was at any date or revision number in the past.
 
+16. Let the past be the past. No point in going back then moving forward. But if it's necessary you need to find the file before the error was made make a branch off that file then when everything looks good, merge it with the trunk. 
+
+
