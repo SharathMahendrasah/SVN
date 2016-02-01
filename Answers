@@ -34,4 +34,6 @@ Answers to Study Guide
 
 17. Inorder to copy your files to the repository the first time you either have to add them to the repository or point the files to the repository in the command line. 
 
+18. The client/server setup for svn can exist on the same computer. 
+
 
