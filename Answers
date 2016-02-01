@@ -26,4 +26,6 @@ Answers to Study Guide
 
 13. A typical workflow for svn is set up a repository, once that is done create a working copy on a local drive, add files and check status when necessary and commit changes when necessary. 
 
+14. The design criteria for SVN was for it to be an open source system with a design similar to CVS and attempting to avoid most of CVS's noticeable flaws.
+
 
