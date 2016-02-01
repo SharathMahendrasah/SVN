@@ -10,4 +10,6 @@ Answers to Study Guide
 
 5. To add files to the repository a user needs to move the files either using the command line or through the file explorer into the folder of the repository. Then once it is in the folder a user has to input the svn add name_of_file then it should be added. 
 
+6. Branches in SVN are handled differently than they are in git. In git, branches were the reason git was created. In svn, not so much. You can have branches but there is no need for them. It remembers that any two barnches are related to eachother. You can also duplicate changes in one branch to another or even make changes to your working copy. Basically all branching does is make a copy of your work and puts it in another directory so you can work on it. 
+
 
