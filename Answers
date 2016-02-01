@@ -20,4 +20,6 @@ Answers to Study Guide
 
 10. There's no set time for how long branches are supposed to exist in svn. Just as long as the user sees fit.
 
+11. With merging in subversion all you are doing is copying specific parts of the branch to another branch or to the trunk or even copy all the changes on your branch to the trunk.
+
 
