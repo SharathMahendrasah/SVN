@@ -12,6 +12,6 @@ Answers to Study Guide
 
 6. Branches in SVN are handled differently than they are in git. In git, branches were the reason git was created. In svn, not so much. You can have branches but there is no need for them. It remembers that any two barnches are related to eachother. You can also duplicate changes in one branch to another or even make changes to your working copy. Basically all branching does is make a copy of your work and puts it in another directory so you can work on it. 
 
-7. There is no limit to how many branches there are at one time. Although having many can cause a lot of confusion. 
+7. There is no limit to how many branches there are at one time. Although having many can cause a i of confusion. 
 
-
+8. Once you get you a working copy and the svn repository the local copy just looks like the folder and files that you have been editing. 
