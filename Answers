@@ -3,3 +3,5 @@ Answers to Study Guide
 1. Rather than commit changes one by one like git SVN commit changes all at once. There's only a single repository that can be used with Subversion. Don't have to statge files before commiting and only have to add it once inorder to track it. Git is more branch friendly as opposed to SVN.
 
 2. Commits in SVN are handled by first making sure the file is added to the repository and is in the trunk within the main directory. 
+
+3. Checkouts in SVN are performed by using the command svn checkout or svn co for short. 
