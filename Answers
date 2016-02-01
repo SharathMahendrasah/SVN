@@ -15,3 +15,6 @@ Answers to Study Guide
 7. There is no limit to how many branches there are at one time. Although having many can cause a i of confusion. 
 
 8. Once you get you a working copy and the svn repository the local copy just looks like the folder and files that you have been editing. 
+
+9. TO check the status of the files you are working on, just type on svn status in the command prompt. Just make sure it is a working copy otherwise you will get an error.
+
