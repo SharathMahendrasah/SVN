@@ -5,3 +5,7 @@ Answers to Study Guide
 2. Commits in SVN are handled by first making sure the file is added to the repository and is in the trunk within the main directory. 
 
 3. Checkouts in SVN are performed by using the command svn checkout or svn co for short. 
+
+4. To create the local working environment with svn a user needs to either create a repository on GitHub and do a svn checkout so that the local files will be treated like the work copy. Or if a user doesnt want to use GitHub they can create a folder for svn then link the repo folder to the folder where all the files are on the local drive.
+
+
