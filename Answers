@@ -22,4 +22,6 @@ Answers to Study Guide
 
 11. With merging in subversion all you are doing is copying specific parts of the branch to another branch or to the trunk or even copy all the changes on your branch to the trunk.
 
+12. Svn was created to be a successor to CVS, by creating an open source system witha design similar to CVS and attempting to avoid most of CVS's noticeable flaws.
+
 
