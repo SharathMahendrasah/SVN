@@ -32,4 +32,6 @@ Answers to Study Guide
 
 16. Let the past be the past. No point in going back then moving forward. But if it's necessary you need to find the file before the error was made make a branch off that file then when everything looks good, merge it with the trunk. 
 
+17. Inorder to copy your files to the repository the first time you either have to add them to the repository or point the files to the repository in the command line. 
+
 
